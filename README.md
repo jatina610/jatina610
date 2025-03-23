@@ -1,7 +1,5 @@
 # 🚀 Jatin Arora | AI Engineer | Data Science Enthusiast  
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,ai)  
-
 ## 👋 About Me  
 I am **Jatin Arora**, an AI Engineer with a passion for **Artificial Intelligence, Data Science, and Machine Learning**. I love solving complex problems using **Python, Java, and SQL** and have tackled **300+ coding problems**.  
 
@@ -18,15 +16,15 @@ I am **Jatin Arora**, an AI Engineer with a passion for **Artificial Intelligenc
 
 ## 📌 Projects  
 🔹 **AI Subtitle Processing System** - Automated subtitle formatting with LLMs  
-🔹 **Stock Trading AI** - AI-powered stock market analysis  
-🔹 **Multi-Agent AI Framework** - Intelligent multi-agent system for text processing  
+🔹 **Celebrity speech recognition** - AI-powered Voice recognition system
+🔹 **Marketing multi agents system** - Intelligent multi-agent system for marketing use case  
 
-Check out my **[Repositories](https://github.com/your-github)** 🚀  
+Check out my **[Repositories](https://github.com/jatina610)** 🚀  
 
 ---
 
 ## 📫 Let's Connect  
-🔗 **LinkedIn:** [linkedin.com/in/jatin-arora](https://www.linkedin.com/in/jatin-arora)  
+🔗 **LinkedIn:** [linkedin.com/in/jatin-arora](https://www.linkedin.com/in/jatin-arora-1aa4a9204/)  
 📧 **Email:** jatina610@gmail.com  
 
 ---
