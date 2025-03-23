@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🚀 Jatin Arora | AI Engineer | Data Science Enthusiast  
 
-<!--
-**jatina610/jatina610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://source.unsplash.com/1600x400/?technology,ai)  
 
-Here are some ideas to get you started:
+## 👋 About Me  
+I am **Jatin Arora**, an AI Engineer with a passion for **Artificial Intelligence, Data Science, and Machine Learning**. I love solving complex problems using **Python, Java, and SQL** and have tackled **300+ coding problems**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Currently exploring **multi-agent AI systems & LLM applications**.  
+
+---
+
+## 🔧 Technologies & Skills  
+- **Programming:** Python 🐍 | Java ☕ | SQL 💾  
+- **AI & ML:** Deep Learning | NLP | LLMs | Multi-Agent Systems  
+- **Cloud & Tools:** Azure | Git | Docker | FastAPI  
+
+---
+
+## 📌 Projects  
+🔹 **AI Subtitle Processing System** - Automated subtitle formatting with LLMs  
+🔹 **Stock Trading AI** - AI-powered stock market analysis  
+🔹 **Multi-Agent AI Framework** - Intelligent multi-agent system for text processing  
+
+Check out my **[Repositories](https://github.com/your-github)** 🚀  
+
+---
+
+## 📫 Let's Connect  
+🔗 **LinkedIn:** [linkedin.com/in/jatin-arora](https://www.linkedin.com/in/jatin-arora)  
+📧 **Email:** jatina610@gmail.com  
+
+---
+
+⭐ **If you like my work, consider giving a star!** ⭐
+  
